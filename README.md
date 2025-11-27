@@ -102,9 +102,24 @@ Si tu veux, je peux :
 
 Voici un aperçu de l'application. Copie l'image souhaitée dans `assets/images/screenshots/` puis mets à jour le nom de fichier ci-dessous si nécessaire.
 
-![Fiche pays - Exemple](assets/images/screenshots/country-detail.png)
+Les captures suivantes sont incluses dans le dossier `assets/images/screenshots/` :
 
-_Si l'image ne s'affiche pas, place le fichier `country-detail.png` dans `assets/images/screenshots/` ou modifie le chemin ci-dessus pour pointer vers l'image correcte._
+- `atlas.jpg` — icône / couverture de l'application
+- `welcomepage.jpg` — écran d'accueil
+- `listpays.jpg` — liste des pays
+- `pays.jpg` — fiche détail d'un pays
+
+Affichage intégré :
+
+![Écran d'accueil](assets/images/screenshots/welcomepage.jpg)
+
+![Couverture / Atlas](assets/images/screenshots/atlas.jpg)
+
+![Liste des pays](assets/images/screenshots/listpays.jpg)
+
+![Fiche pays](assets/images/screenshots/pays.jpg)
+
+_Si une image ne s'affiche pas, vérifie que le fichier existe dans `assets/images/screenshots/` et que le nom correspond exactement (respect de la casse)._ 
 
 # Welcome to your Expo app 👋
 
