@@ -98,6 +98,14 @@ Si tu veux, je peux :
 - ajouter un script `npm run start:android`/`start:ios` au `package.json` ;
 - connecter l'app à une API publique (ex: restcountries.eu) ;
 - générer des tests de base.
+## Screenshots
+
+Voici un aperçu de l'application. Copie l'image souhaitée dans `assets/images/screenshots/` puis mets à jour le nom de fichier ci-dessous si nécessaire.
+
+![Fiche pays - Exemple](assets/images/screenshots/country-detail.png)
+
+_Si l'image ne s'affiche pas, place le fichier `country-detail.png` dans `assets/images/screenshots/` ou modifie le chemin ci-dessus pour pointer vers l'image correcte._
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).

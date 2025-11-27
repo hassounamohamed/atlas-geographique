@@ -90,6 +90,6 @@ const styles = StyleSheet.create({
   iconBox: { width: 40, height: 40, alignItems: 'center', justifyContent: 'center', marginRight: 12 },
   iconText: { fontSize: 20 },
   rowLabel: { fontSize: 16, fontWeight: '500', color: '#0f172a', flex: 1 },
-  rowHint: { fontSize: 14, color: '#9ca3af', marginLeft: 8 },
+  rowHint: { fontSize: 14, color: '#0acd10ff', marginLeft: 8 },
   center: { flex: 1, alignItems: 'center', justifyContent: 'center' },
 });
